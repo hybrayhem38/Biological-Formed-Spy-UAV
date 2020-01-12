@@ -3,6 +3,10 @@ Biyolojik formlu casus İHA tasarımı.
 
 <img src="images/spy-uav.jpeg" width=640>
 
+İlk prototip:
+
+<img src="images/stick.gif" width=540>
+
 # 3D Design
 İHA'nın 3 boyutlu modeli Solidworks ve Fusion 360 çizim araçlarıyla tasarlandı.
 
