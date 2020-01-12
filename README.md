@@ -31,6 +31,6 @@ Motor ve sensörler [KartalGzSpywareCam](https://github.com/hybrayhem38/KartalGz
 
 <img src="images/control-app.jpg" width=640>
 
-Nesne takibi:
+Hedef takip yazılımı:
 
 <img src="images/selection.jpg" width=400><img src="images/track.jpg" width=400>
